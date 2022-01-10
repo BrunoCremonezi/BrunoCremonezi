@@ -5,7 +5,6 @@
  
  <p> Feel free to take a look!
  
- <p>
  ## Skills and Experience
   - C/C++
   - Phyton
