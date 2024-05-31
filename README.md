@@ -8,6 +8,5 @@
  ## Skills and Experience
   - C/C++
   - Phyton
-  - MATLAB
 
 💬 Ask me about anything, and I will be glad to help! &emsp; 📫 How to reach me: bruno.cremonezi@hotmail.com
